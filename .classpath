@@ -2,5 +2,6 @@
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="udemy-course-filtering/src"/>
+	<classpathentry kind="lib" path="library/mysql-connector-java-8.0.27.jar"/>
 	<classpathentry kind="output" path="udemy-course-filtering/bin"/>
 </classpath>
