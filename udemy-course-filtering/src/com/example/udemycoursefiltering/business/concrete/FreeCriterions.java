@@ -11,7 +11,7 @@ public class FreeCriterions implements CriterionToComparasionHelper {
 	public List<Course> CriterionToCompare(List<Course> course) {
 		
 		List<Course> list = new ArrayList<Course>();
-
+		
 		for (Course course2 : course) {
 			if (course2.isFree()) {
 				list.add(course2);
