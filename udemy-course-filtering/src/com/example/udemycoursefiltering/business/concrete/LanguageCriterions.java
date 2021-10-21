@@ -1,8 +1,9 @@
-package com.example.udemycoursefiltering.business.abstracts;
+package com.example.udemycoursefiltering.business.concrete;
 
 import java.util.ArrayList;
 import java.util.List;
 
+import com.example.udemycoursefiltering.business.abstracts.CriterionToComparasionHelper;
 import com.example.udemycoursefiltering.entity.Course;
 
 public class LanguageCriterions implements CriterionToComparasionHelper{
